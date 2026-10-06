@@ -64,8 +64,3 @@ An interactive single-page **Sales Performance Dashboard** built using Power BI 
 
 ---
 
-## 🚀 How to Run & View
-
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/Sales-Performance-Dashboard.git](https://github.com/YOUR_USERNAME/Sales-Performance-Dashboard.git)

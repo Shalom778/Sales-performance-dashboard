@@ -10,7 +10,7 @@ An interactive single-page **Sales Performance Dashboard** built using Power BI 
 
 ## 🖼️ Dashboard Preview
 
-![Sales Performance Dashboard](screenshots/dashboard_preview.png)
+![Sales Performance Dashboard](dashboard_preview.png)
 
 
 

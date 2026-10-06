@@ -12,7 +12,7 @@ An interactive single-page **Sales Performance Dashboard** built using Power BI 
 
 ![Sales Performance Dashboard](screenshots/dashboard_preview.png)
 
-*(Note: Save your dashboard screenshot as `dashboard_preview.png` inside a `screenshots/` folder in your repository to display the preview above).*
+
 
 ---
 
